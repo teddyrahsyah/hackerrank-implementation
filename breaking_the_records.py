@@ -23,8 +23,6 @@ def breakingRecords(scores):
         lowest_record = i
         low_counter += 1
 
-      print(f"{i} : {high_counter}")
-
     print(f"{high_counter} {low_counter}")
 
 if __name__ == '__main__':
